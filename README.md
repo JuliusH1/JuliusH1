@@ -1,7 +1,7 @@
 > Founder @ [VoidCraft](https://shop.voidcraftmc.net)	
 >  
 > play.voidcraftmc.net
-> ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+> ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
  
 Founder [LeafStudios](https://www.leafstudios.dev)
 
