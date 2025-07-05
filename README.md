@@ -1,4 +1,4 @@
-> Founder @ [VoidCraft](https://shop.voidcraftmc.net)	                                                                                                                                                                                                               
+> Founder @ [VoidCraftMC](https://store.voidcraftmc.net)	                                                                                                                                                                                                               
 > play.voidcraftmc.net                                                                                                                                                                                                                                              
 > ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
  
