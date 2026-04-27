@@ -17,4 +17,4 @@
 $ whoami
 JuliusH_1
 Founder @ LeafStudios
-Java / Paper &amp; Folia developer / Web development
+Java / Paper & Folia developer / Web development
