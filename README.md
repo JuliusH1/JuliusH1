@@ -1,7 +1,7 @@
 <h1 align="center">JuliusH_1</h1>
 <p align="center">
   Founder <a href="https://www.leafstudios.dev">LeafStudios</a><br/>
-  I am currently learning JavaScript!<br/>
+  I am currently learning fullstack web development and Minecraft plugin development.<br/>
   15 year old developer from Netherlands 🇳🇱
 </p>
 
@@ -17,4 +17,4 @@
 $ whoami
 JuliusH_1
 Founder @ LeafStudios
-Java / Spigot / Paper / Folia developer
+Java / Paper & Folia developer / Web development
